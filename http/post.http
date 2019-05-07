@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/Contract HTTP/1.1
+content-type: application/json
+
+{
+    "ID": "8",
+    "Name": "Nik",
+    "Last_name": "Moscov",
+    "TRIP_WAY_ID": "7"
+}

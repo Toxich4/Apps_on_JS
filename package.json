@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/Toxich4/Apps_on_JS#readme",
   "dependencies": {
+    "@vue/cli": "^3.7.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
     "express": "^4.16.4",
     "mysql": "^2.16.0"
   }
